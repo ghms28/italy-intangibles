@@ -53,15 +53,18 @@ Finding out that the top 5 countries are also the top 10 performers in the ratio
 ### Step 1
 
 Italy vs Top Performers
+
 Italy’s intangible investment has grown steadily since 1999, but at a slower rate compared to the UK, Germany, and France. Despite Italy's absolute investment in intangible assets being sensibly lower than the top three performers, in terms of growth percentage, Italy has been investing in intangibles at almost the same steady rate as the others. 
 However, if the investment growth remains the same, as shown in the graph below, it will be well behind the UK, France, and Germany, leading to reduced competitiveness in intangible-intensive sectors.
 ![03-Growth of Intangible Investment](figures/03-italy_vs_top_performers.png)
 
 Italy vs EU Average
+
 While Italy invests more in intangibles than most EU countries in absolute terms, its growth pace is slower than the EU average. Italy ranks as an upper-mid performer, demonstrating a solid structural commitment to intangible investment, but without the dynamic acceleration seen in the leading countries (UK, Germany, and France). This indicates that although Italy’s investment level is strong, its relative growth may not be sufficient to drive a leadership position in innovation over time.
 ![04-Italy vs EU Average](figures/04-italy_vs_eu_avg.png)
 
 Sectoral Drivers (2010–2021)
+
 The 3 countries of the UK, Germany, and France outperformed Italy in this period in growing their intangible investments.
 The graph displays the change in intangible investment by sector in Italy over the period 2010–2021, focusing only on the top common sectors.
 ![05-Change in Intangible Investment by Sector in Italy](figures/05-italy_sector_change_common.png)
@@ -73,6 +76,7 @@ Each bar represents the net change in intangible investment (measured in million
 The chart emphasizes the sectoral disparities in intangible investment evolution, with some industries investing heavily while others stagnating or declining.
 
 Sectoral changes for IT vs UK/FR/DE.
+
 Visualize the top sector changes for IT vs UK/FR/DE to show divergence
 ![06-Sectoral changes for IT vs UK/FR/DE](figures/06-sectoral_intangible_growth.png)
 ![07-Sectoral changes for IT vs UK/FR/DE (%)](figures/07-sectoral_intangible_growth_pct.png)
@@ -83,6 +87,7 @@ However, absolute values alone may be misleading, as they reflect both growth an
 Overall, Italy’s intangible investment expansion appears balanced across sectors, but remains smaller in scale compared to the leaders, especially in innovation-intensive industries like professional services.
 
 CAGR calculation for total intangible investment from 2010 to 2021
+
 Calculate and show the compound annual growth rate (CAGR) for total intangible investment in each country (2010–2021) to quantify the lag.
 ![08-Compound Annual Growth Rate](figures/08-cagr_intangible_investment.png)    
   | Country | GACR 2010-2021 |
