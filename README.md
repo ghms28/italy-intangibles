@@ -103,9 +103,6 @@ The CAGR tells you how much, on average, each year, the investment has grown, ta
     However, the CAGR graph shows another dimension: the average annual growth of investment in Italy was significantly lower (about 2.2 percent) than in other countries, particularly Germany (about 5 percent) and the UK (about 4.6 percent).
     This indicates that Italy has been investing, but at a slower and less steady pace over time, while the UK and Germany have maintained more robust and sustained growth year after year.
 
-Within Top Sectors: Determine the share of each type of intangible investment relative to the total intangible investment per year in Italy 
-This lets us see which types of intangibles (e.g., R&D, Software, Design, etc.) drove growth in each sector.
-
 ![09-Composition of Intangible Investment in Top Italian sectors](figures/09-composition_of_intangible_investments_italy_top_sectors.png)
     In the manufacturing sector, there has been a significant growth in R&D as a percentage of total intangible investment since around 2015. Economic Competence and Innovative Property remain high, while investments in Software and Design are stable but less significant. In the financial and insurance activities sector, Innovative Property and Economic Competence dominate with high and stable shares. R&D has a marginal weight compared to other sectors, and there is a concentration on a few types of intangibles. In the professional, scientific, and technical activities sector, Innovative Property has a dominant but decreasing weight, while R&D has a constant share. Overall, the trends in intangible investment composition differ across these sectors in Italy.
 
