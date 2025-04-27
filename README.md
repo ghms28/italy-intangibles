@@ -53,8 +53,8 @@ Finding out that the top 5 countries are also the top 10 performers in the ratio
 ### Step 1
 
 Italy vs Top Performers
-Italy’s intangible investment has grown steadily since 1999, but at a slower rate compared to the UK, Germany, and France.
-Despite Italy's absolute investment in intangible assets being sensibly lower than the top three performers, in terms of growth percentage, Italy has been investing in intangibles at     almost the same steady rate as the others. However, if the investment growth remains the same, it will be well behind the UK, France, and Germany, leading to reduced competitiveness     in intangible-intensive sectors.
+As seen until now, Italy’s intangible investment has grown steadily since 1999, but at a slower rate compared to the UK, Germany, and France. Despite Italy's absolute investment in intangible assets being sensibly lower than the top three performers, in terms of growth percentage, Italy has been investing in intangibles at almost the same steady rate as the others. 
+However, if the investment growth remains the same, as shown in the graph below, it will be well behind the UK, France, and Germany, leading to reduced competitiveness in intangible-intensive sectors.
 ![03-Growth of Intangible Investment](figures/03-italy_vs_top_performers.png)
 
 Italy vs EU Average
