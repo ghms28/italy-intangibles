@@ -113,7 +113,11 @@ This lets us see which types of intangibles (e.g., R&D, Software, Design, etc.) 
 ![10.2-Evolution of Intangible Professional, scientific and technical activities](<figures/10.2-intangible_investments_evolution_Professional, scientific and technical activities.png>)
 ![10.3-Evolution of Intangible Wholesale and retail trade; repair of motor vehicles and motorcycles](<figures/10.3-intangible_investments_evolution_Wholesale and retail trade; repair of motor vehicles and motorcycles.png>)
 
-In Manufacturing, the rise of Software, Innovative Property, and Organizational Capital reflects a shift toward technology-driven and efficiency-focused production. Services show strong growth in Economic Competence, highlighting the centrality of skills, branding, and digital transformation. Construction lags behind but shows signs of modernization through Organizational Capital investments. Overall, Italy’s intangible investment growth is driven more by strengthening existing capabilities than by radical innovation, pointing to modernization but also a need for stronger R&D efforts.
+In the manufacturing sector, there has been significant growth in R&D (Research and Development) investment since 2015, with a visible increase also for Economic Competence and Innovative Property, which remain among the major components.  Overall, the sector shows a strong focus on creating and protecting innovation. 
+
+In the Professional, Scientific and Technical Activities sector, Innovative Property dominates intangible investment, although a slight decline in its relative share is noted in recent years. Investment in R&D appears to be constant over time, while there is a gradual growth in investment in Economic Skills and Organizational Capital. This suggests an evolving sector geared toward both knowledge enhancement and internal skills strengthening.
+
+in Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles, the intangible investment picture is characterized by a clear predominance of Economic Skills, which show continuous and sustained growth. Organizational Capital also represents an important and stable component. In contrast, investments in R&D, Innovative Property and Software remain limited, indicating an investment strategy focused more on human capital and organizational skills rather than technology or technical innovation.
 
 ### Conclusion
 Conclusion here
