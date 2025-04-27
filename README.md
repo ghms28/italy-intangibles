@@ -111,13 +111,13 @@ The CAGR tells you how much, on average, each year, the investment has grown, ta
 
 ![10.1-Evolution of Intangible Manufacturing](figures/10.1-intangible_investments_evolution_Manufacturing.png)
 ![10.2-Evolution of Intangible Professional, scientific and technical activities](<figures/10.2-intangible_investments_evolution_Professional, scientific and technical activities.png>)
-![10.3-Evolution of Intangible Wholesale and retail trade; repair of motor vehicles and motorcycles](<figures/10.3-intangible_investments_evolution_Wholesale and retail trade; repair of motor vehicles and motorcycles.png>)
+![10.5-Evolution of Intangible Financial and insurance activities](<figures/10.5-intangible_investments_evolution_Financial and insurance activities.png>)
 
 In the manufacturing sector, there has been significant growth in R&D (Research and Development) investment since 2015, with a visible increase also for Economic Competence and Innovative Property, which remain among the major components.  Overall, the sector shows a strong focus on creating and protecting innovation. 
 
 In the Professional, Scientific and Technical Activities sector, Innovative Property dominates intangible investment, although a slight decline in its relative share is noted in recent years. Investment in R&D appears to be constant over time, while there is a gradual growth in investment in Economic Skills and Organizational Capital. This suggests an evolving sector geared toward both knowledge enhancement and internal skills strengthening.
 
-in Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles, the intangible investment picture is characterized by a clear predominance of Economic Skills, which show continuous and sustained growth. Organizational Capital also represents an important and stable component. In contrast, investments in R&D, Innovative Property and Software remain limited, indicating an investment strategy focused more on human capital and organizational skills rather than technology or technical innovation.
+For the financial and insurance activities sector, we can see that innovative property and NFP investments assume particular importance, following a linear but very pronounced growth since 2010. investments in software are also significant in this sector. 
 
 ### Conclusion
 Conclusion here
