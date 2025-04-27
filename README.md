@@ -33,7 +33,10 @@ Finding out that the top 5 countries are also the top 10 performers in the ratio
 ### Step 0 – General Insights:
 - Comparison of Italy vs EU and Top 5/X EU countries:
   - Trends in total intangible investment as a percentage of total (tangible + intangible) investments.
-  ![01-Intangible amount yearly](figures/01-intangible_eu_yearly.png)
+  ![02.1-Intangible ratio top 5 yearly](figures/02.1-relative_intangible_top5_yearly.png)
+
+  - Trends in total intangible investment.
+  ![02.1-Intangible amount top 5 yearly](figures/01.1-intangible_top5_yearly.png)
   As shown in the above chart, Italy has been investing more in Intangibles over the years. But from around the year 2010, the growth in investment rate of intangibles in the top 3 countries UK, France, and Germany, has been more than Italy, and Italy has been almost on par with the  Netherlands and Sweden in terms of growth in intangible investments.
   One finding worth mentioning is that Germany has been seriously investing more in intangibles since 2010 and has well passed France in that regard.
 
