@@ -13,9 +13,12 @@ To start the analysis, we should focus on the top countries first. To do that, w
 3. We then plotted the total intangible and total tangible investments of these selected countries, set the base to 1999, and observed the chart below, which shows that the growth in intangible investment is more than the growth in tangibles.
 ![00-Intangible and tangible investment growth yearly](figures/00-intangible_tangible_growth_eu_yearly.png)
 
-4. Then, we of course converted the amount of investments of those countries that do not use the Euro to Euro based on the official data from ECB (European Central Bank), which was from 1999 onwards. So, because of that, we used the data from the year 1999.
+4. We then plotted the total intangible and total tangible investments of Italy, set the base to 1999, and observed the chart below, which shows that the growth in intangible investment has been steady and it surpassed the investement growth of tangibles after 2009. But it is worth noting that the dip in 2020 may correspond to covid-19, and also Italy has put more investemnt in both tangible and intangible since then, but investment in intangibles were more signifant.
+![00.1-Intangible and tangible investment growth yearly in Italy](figures/00.1-intangible_tangible_growth_it_yearly.png)
 
-5. Based on that, we charted investments in intangibles and also the ratio of intangible investment compared to total investment (intangibles + tangibles).
+5. Then, we of course converted the amount of investments of those countries that do not use the Euro to Euro based on the official data from ECB (European Central Bank), which was from 1999 onwards. So, because of that, we used the data from the year 1999.
+
+6. Based on that, we charted investments in intangibles and also the ratio of intangible investment compared to total investment (intangibles + tangibles).
 ![01-Intangible amount yearly](figures/01-intangible_eu_yearly.png)
 ![02-Intangible ratio yearly](figures/02-relative_intangible_eu_yearly.png)
 
