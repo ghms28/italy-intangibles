@@ -91,7 +91,6 @@ Overall, Italy’s intangible investment expansion appears balanced across secto
 
 CAGR calculation for total intangible investment from 2010 to 2021
 
-Calculate and show the compound annual growth rate (CAGR) for total intangible investment in each country (2010–2021) to quantify the lag.
 ![08-Compound Annual Growth Rate](figures/08-cagr_intangible_investment.png)    
   | Country | GACR 2010-2021 |
   | ------- | -------------- |
