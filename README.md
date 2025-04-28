@@ -68,7 +68,7 @@ While Italy invests more in intangibles than most EU countries in absolute terms
 
 Sectoral Drivers (2010–2021)
 
-The 3 countries of the UK, Germany, and France outperformed Italy in this period in growing their intangible investments.
+The 3 countries of the UK, Germany, and France outperformed Italy in this period in terms of growing their intangible investments.
 The graph displays the change in intangible investment by sector in Italy over the period 2010–2021, focusing only on the top common sectors.
 ![05-Change in Intangible Investment by Sector in Italy](figures/05-italy_sector_change_common.png)
     
@@ -80,7 +80,6 @@ The chart emphasizes the sectoral disparities in intangible investment evolution
 
 Sectoral changes for IT vs UK/FR/DE.
 
-Visualize the top sector changes for IT vs UK/FR/DE to show divergence
 ![06-Sectoral changes for IT vs UK/FR/DE](figures/06-sectoral_intangible_growth.png)
 ![07-Sectoral changes for IT vs UK/FR/DE (%)](figures/07-sectoral_intangible_growth_pct.png)
 
