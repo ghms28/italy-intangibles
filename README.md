@@ -120,8 +120,16 @@ In the Professional, Scientific and Technical Activities sector, Innovative Prop
 For the financial and insurance activities sector, we can see that innovative property and NFP investments assume particular importance, following a linear but very pronounced growth since 2010. investments in software are also significant in this sector. 
 
 ### Conclusion
-Conclusion here
+Between 1999 and 2021, Italy steadily increased its intangible investments, although at a slower pace than top EU countries like the UK, Germany, and France.
+In absolute terms, Italy ranks among the top investors, but its growth rate lags behind both the EU average and the leading performers. Sectoral analysis shows positive trends in manufacturing and professional services, but limited investment in key innovation sectors compared to competitors.  While Italy demonstrates a strong structural commitment to intangibles, a faster and more dynamic investment strategy is needed to strengthen competitiveness, especially in innovation-intensive industries. Without acceleration, Italy risks widening the gap with the top European performers.
+
 
 ### Future works
 
-Future works here
+Future work that could follow our research could be marked in answering the following questions: 
+
+how is intangible investment broken down by region in italy? are there substantial differences between north and south? which sectors have greater differences?
+
+What are the specific events that may affect peaks and dips in different types of sectors? Could they be explained by public finance maneuvers or geopolitical tensions?
+
+How much does investment in specific intangible categories (such as R&D, Economic Competence, Software) impact sectoral productivity in Italy?
